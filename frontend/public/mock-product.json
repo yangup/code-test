@@ -1,0 +1,17 @@
+{
+  "id": "prod_12345",
+  "name": "Classic Cotton T-Shirt",
+  "description": "A premium quality, 100% organic cotton t-shirt. Perfect for everyday wear with a comfortable fit and durable fabric.",
+  "image": "https://aaaaaa.com/b.png",
+  "skus": [
+    { "id": "sku_001", "variant": { "color": "Red", "size": "S" }, "price": 19.99, "stock": 10 },
+    { "id": "sku_002", "variant": { "color": "Red", "size": "M" }, "price": 19.99, "stock": 5 },
+    { "id": "sku_003", "variant": { "color": "Red", "size": "L" }, "price": 19.99, "stock": 0 },
+    { "id": "sku_004", "variant": { "color": "Blue", "size": "S" }, "price": 24.99, "stock": 8 },
+    { "id": "sku_005", "variant": { "color": "Blue", "size": "M" }, "price": 24.99, "stock": 3 },
+    { "id": "sku_006", "variant": { "color": "Blue", "size": "L" }, "price": 24.99, "stock": 12 },
+    { "id": "sku_007", "variant": { "color": "Black", "size": "S" }, "price": 22.99, "stock": 20 },
+    { "id": "sku_008", "variant": { "color": "Black", "size": "M" }, "price": 22.99, "stock": 15 },
+    { "id": "sku_009", "variant": { "color": "Black", "size": "L" }, "price": 22.99, "stock": 7 }
+  ]
+}
